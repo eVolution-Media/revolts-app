@@ -1,0 +1,19 @@
+{
+  "name": "revolts-app",
+  "version": "1.0.0",
+  "description": "An example app for the @evolutionmedia/revolts framework",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BitAuthority",
+  "license": "ISC",
+  "dependencies": {
+    "@evolutionmedia/revolts": "^1.0.4"
+  },
+  "devDependencies": {
+    "path": "^0.12.7",
+    "ts-loader": "^5.2.2",
+    "typescript": "^3.1.3"
+  }
+}
